@@ -36,14 +36,13 @@ XX represents 13-24
 
 Open `PulsarEngine/ExtendedPlayers/Config.hpp`. Set `PlayerCount` to `12`, `16`, `18` or `24`. `LargeResults` chooses the alternate results layout.
 
-## ItemSlot editor source
 
 ## ItemSlot24 probabilities
 
 Put the editor's exported **`ItemSlot24.bin` at the root of `CommonAssets.szs`**.
 
-- 1–12 racers: normal item tables and track `.slt` behavior are unchanged.
-- 13–24 racers: it will then use itemSlot24.bin
+- 1â€“12 racers: normal item tables and track `.slt` behavior are unchanged.
+- 13â€“24 racers: it will then use itemSlot24.bin
 
 Each Player/CPU column must total 100%.
 
