@@ -38,6 +38,7 @@ Open `PulsarEngine/ExtendedPlayers/Config.hpp`. Set `PlayerCount` to `12`, `16`,
 
 
 ## ItemSlot24 probabilities
+Use the itemslot editor to edit probabilities for 13+ racers. You do not need to include the folder in your project, it is just used as an editor to create the ItemSlot24.bin 
 
 Put the editor's exported **`ItemSlot24.bin` at the root of `CommonAssets.szs`**.
 
