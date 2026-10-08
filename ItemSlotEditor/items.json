@@ -1,0 +1,123 @@
+[
+  {
+    "id": 0,
+    "name": "Green Shell"
+  },
+  {
+    "id": 1,
+    "name": "Red Shell"
+  },
+  {
+    "id": 2,
+    "name": "Banana"
+  },
+  {
+    "id": 3,
+    "name": "Fake Item Box"
+  },
+  {
+    "id": 4,
+    "name": "Mushroom"
+  },
+  {
+    "id": 5,
+    "name": "Triple Mushroom"
+  },
+  {
+    "id": 6,
+    "name": "Bob-omb"
+  },
+  {
+    "id": 7,
+    "name": "Blue Shell"
+  },
+  {
+    "id": 8,
+    "name": "Lightning"
+  },
+  {
+    "id": 9,
+    "name": "Star"
+  },
+  {
+    "id": 10,
+    "name": "Golden Mushroom"
+  },
+  {
+    "id": 11,
+    "name": "Mega Mushroom"
+  },
+  {
+    "id": 12,
+    "name": "Blooper"
+  },
+  {
+    "id": 13,
+    "name": "POW Block"
+  },
+  {
+    "id": 14,
+    "name": "Thundercloud"
+  },
+  {
+    "id": 15,
+    "name": "Bullet Bill"
+  },
+  {
+    "id": 16,
+    "name": "Triple Green Shells"
+  },
+  {
+    "id": 17,
+    "name": "Triple Red Shells"
+  },
+  {
+    "id": 18,
+    "name": "Triple Bananas"
+  },
+  {
+    "id": 21,
+    "name": "Boo",
+    "enabled": false
+  },
+  {
+    "id": 22,
+    "name": "Feather",
+    "enabled": false
+  },
+  {
+    "id": 23,
+    "name": "Bubble",
+    "enabled": false
+  },
+  {
+    "id": 24,
+    "name": "Giant Banana",
+    "enabled": false
+  },
+  {
+    "id": 25,
+    "name": "Bowser Shell",
+    "enabled": false
+  },
+  {
+    "id": 26,
+    "name": "Electric Shell",
+    "enabled": false
+  },
+  {
+    "id": 27,
+    "name": "Triple Combo Shells",
+    "enabled": false
+  },
+  {
+    "id": 28,
+    "name": "Boomerang",
+    "enabled": false
+  },
+  {
+    "id": 29,
+    "name": "Terrain Shroom",
+    "enabled": false
+  }
+]
